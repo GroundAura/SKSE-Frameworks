@@ -2,6 +2,8 @@
 
 A list of SKSE Frameworks for Skyrim so people can find them easier.
 
+<!-- ## Animation -->
+
 ## Forms
 
 These plugins interact with forms in some way. Effectively modifying subrecords or sometimes adding brand new forms. These can often be used instead of ESP plugins to achieve the same effects.
@@ -19,15 +21,12 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Game Settings Override](https://www.nexusmods.com/skyrimspecialedition/mods/114911)
 - [Item Property Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/95795)
 - [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
-- [Language Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/114634)
 - [Make Them Slow or Fast](https://www.nexusmods.com/skyrimspecialedition/mods/109355)
 - [Music Type Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/119571)
 - [Race Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/113825)
 - [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 - [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)
 - [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
-
-<!-- ## Animation -->
 
 <!-- ## Gameplay -->
 
@@ -100,7 +99,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [OnHit Animations Framework](https://www.nexusmods.com/skyrimspecialedition/mods/42574)
   - [Updated NG](https://www.nexusmods.com/skyrimspecialedition/mods/69298)
 - [Open Animations Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)
-  - [OAR Detection Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/104806)'
+  - [OAR Detection Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/104806)
   - [OAR Dialogue Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/107186)
   - [OAR IED Conditions](https://www.nexusmods.com/skyrimspecialedition/mods/98308)
   - [OAR Math Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/92607)
@@ -124,6 +123,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Gear Spreader](https://www.nexusmods.com/skyrimspecialedition/mods/66392)
 - [IFrame Generator RE](https://www.nexusmods.com/skyrimspecialedition/mods/74401)
   - [AE Support](https://www.nexusmods.com/skyrimspecialedition/mods/82737)
+- [Language Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/114634)
 - [MergeMapper](https://www.nexusmods.com/skyrimspecialedition/mods/74689)
 - [Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260)
 - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
@@ -155,6 +155,8 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Armor Clothes & Weapon Framework](https://www.nexusmods.com/skyrimspecialedition/mods/45064)
 - [Clothing and Armor Exposure Keyword Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/111684)
 - [Equipment Weight Keywords](https://www.nexusmods.com/skyrimspecialedition/mods/76100)
+- [Injected Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/74737)
+- [Keyword Compatibility Framework](https://www.nexusmods.com/skyrimspecialedition/mods/79564)
 - [Object Categorization Framwork](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
 - [RMB SPIDified - Core](https://www.nexusmods.com/skyrimspecialedition/mods/63625)
 - [RMB SPIDified - Regional Keyword Framework](https://www.nexusmods.com/skyrimspecialedition/mods/100637)
@@ -196,8 +198,6 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Fort Takeovers Framework](https://www.nexusmods.com/skyrimspecialedition/mods/25143)
 - [High Heels Condition Spell](https://www.nexusmods.com/skyrimspecialedition/mods/76899)
 - [Indrith's Patchless Integration Framework](https://www.nexusmods.com/skyrimspecialedition/mods/71138)
-- [Injected Animated Armoury](https://www.nexusmods.com/skyrimspecialedition/mods/74737)
-- [Keyword Compatibility Framework](https://www.nexusmods.com/skyrimspecialedition/mods/79564)
 - [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882)
 - [Offset Movement Animation](https://www.nexusmods.com/skyrimspecialedition/mods/110408)
 - [RaceCompatibility](https://www.nexusmods.com/skyrimspecialedition/mods/2853)
