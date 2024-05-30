@@ -80,6 +80,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 
 ## UI
 
+- [CoMAP](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
 - [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409)
 - [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
 - [dMenu](https://www.nexusmods.com/skyrimspecialedition/mods/97221)
@@ -105,11 +106,15 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
   - [NG Update](https://www.nexusmods.com/skyrimspecialedition/mods/85740)
 - [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273)
+- [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963)
 - [Dynamic Key Action Framework](https://www.nexusmods.com/skyrimspecialedition/mods/87706)
 - [Don't Eat Spell Tomes](https://www.nexusmods.com/skyrimspecialedition/mods/43095)
 - [Dynamic Dialogue Replacer](https://www.patreon.com/posts/dynamic-dialogue-87675093)
 - [Enchantment Art Extender](https://www.nexusmods.com/skyrimspecialedition/mods/105492)
+- [NewProjectilesAPI](https://github.com/fenix31415/NewProjectilesTMP/)
+  - [old version](https://www.nexusmods.com/skyrimspecialedition/mods/70916)
 - [Fuelable Framework](https://www.nexusmods.com/skyrimspecialedition/mods/98629)
+- [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001)
 - [Item Equip Restrictor](https://www.nexusmods.com/skyrimspecialedition/mods/108665)
 - [KiLoader](https://www.nexusmods.com/skyrimspecialedition/mods/99404)
 - [Mu Impact Framework](https://www.nexusmods.com/skyrimspecialedition/mods/95624)
@@ -129,8 +134,12 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Alchemy Effect Randomizer](https://www.nexusmods.com/skyrimspecialedition/mods/107301)
 - [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
 - [CatHub](https://www.nexusmods.com/skyrimspecialedition/mods/65958)
+- [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224)
+  - [CBPC Equipment Physics](https://www.nexusmods.com/skyrimspecialedition/mods/58990)
 - [Dynamic Form Tracker](https://www.nexusmods.com/skyrimspecialedition/mods/118995)
+- [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 - [Gear Spreader](https://www.nexusmods.com/skyrimspecialedition/mods/66392)
+- [Headpart Whitelist](https://www.nexusmods.com/skyrimspecialedition/mods/106126)
 - [IFrame Generator RE](https://www.nexusmods.com/skyrimspecialedition/mods/74401)
   - [AE Support](https://www.nexusmods.com/skyrimspecialedition/mods/82737)
 - [Language Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/114634)
@@ -138,6 +147,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260)
 - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
 - [Scaleform Translation Plug Plug NG](https://www.nexusmods.com/skyrimspecialedition/mods/77359)
+- [Spell Level Automatic Adjusted Description](https://www.nexusmods.com/skyrimspecialedition/mods/113097)
 
 # More (non SKSE DLL) Frameworks
 
