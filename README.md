@@ -101,6 +101,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 
 - [Alchemy of Time](https://www.nexusmods.com/skyrimspecialedition/mods/113695)
 - [Behavior Data Injector](https://www.nexusmods.com/skyrimspecialedition/mods/78146)
+- [Conjuration Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/117155)
 - [Containerize](https://www.nexusmods.com/skyrimspecialedition/mods/110297)
 - [Crafting Remnants](https://www.nexusmods.com/skyrimspecialedition/mods/119296)
 - [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
@@ -149,6 +150,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260)
 - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
 - [Scaleform Translation Plug Plug NG](https://www.nexusmods.com/skyrimspecialedition/mods/77359)
+- [Slow Time Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/115453)
 - [Spell Level Automatic Adjusted Description](https://www.nexusmods.com/skyrimspecialedition/mods/113097)
 
 # More (non SKSE DLL) Frameworks
