@@ -39,6 +39,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 - [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)
 - [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
+- [Sunlight Damage Exception Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126578)
 
 <!-- ## Gameplay -->
 
@@ -105,6 +106,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Containerize](https://www.nexusmods.com/skyrimspecialedition/mods/110297)
 - [Crafting Remnants](https://www.nexusmods.com/skyrimspecialedition/mods/119296)
 - [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
+- [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203)
 - [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
   - [NG Update](https://www.nexusmods.com/skyrimspecialedition/mods/85740)
 - [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273)
@@ -126,6 +128,8 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
   - [Updated NG](https://github.com/mrowrpurr/no-esp/releases)
 - [One Click Power Attack](https://www.nexusmods.com/skyrimspecialedition/mods/60878)
 - [Outfit Effect Addon](https://www.nexusmods.com/skyrimspecialedition/mods/92599)
+- [Precision - Unofficial Locational Damage Framework](https://www.nexusmods.com/skyrimspecialedition/mods/78744)
+  - [Updated](https://www.nexusmods.com/skyrimspecialedition/mods/111351)
 - [Shout Recovery Utilities](https://www.nexusmods.com/skyrimspecialedition/mods/115457)
 - [Skyrim Platform](https://www.nexusmods.com/skyrimspecialedition/mods/54909)
   - [Skyrim Platform Papyrus Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/59468)
@@ -153,6 +157,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260)
 - [Player Name Randomizer](https://www.nexusmods.com/skyrimspecialedition/mods/92438)
 - [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
 - [Scaleform Translation Plug Plug NG](https://www.nexusmods.com/skyrimspecialedition/mods/77359)
 - [Slow Time Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/115453)
 - [Spell Level Automatic Adjusted Description](https://www.nexusmods.com/skyrimspecialedition/mods/113097)
@@ -179,6 +184,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 
 ## Keywords
 
+- [All_Key SPID Keyword Framework](https://www.nexusmods.com/skyrimspecialedition/mods/115436)
 - [allbrancereals SPID Keyword Utils](https://www.nexusmods.com/skyrimspecialedition/mods/114444)
 - [Armor Clothes & Weapon Framework](https://www.nexusmods.com/skyrimspecialedition/mods/45064)
 - [Clothing and Armor Exposure Keyword Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/111684)
@@ -188,6 +194,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Object Categorization Framwork](https://www.nexusmods.com/skyrimspecialedition/mods/81469)
 - [RMB SPIDified - Core](https://www.nexusmods.com/skyrimspecialedition/mods/63625)
 - [RMB SPIDified - Regional Keyword Framework](https://www.nexusmods.com/skyrimspecialedition/mods/100637)
+- [SkyPatcher Keyword Framework](https://www.nexusmods.com/skyrimspecialedition/mods/127024)
 - [SPID INI Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/51094)
 - [SPID Random Distribution Helper](https://www.nexusmods.com/skyrimspecialedition/mods/70572)
 - [Sonders Keyword Distribution Resources](https://www.nexusmods.com/skyrimspecialedition/mods/93995)
@@ -235,6 +242,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Offset Movement Animation](https://www.nexusmods.com/skyrimspecialedition/mods/110408)
 - [Open MCM Hotkey](https://www.nexusmods.com/skyrimspecialedition/mods/91561)
 - [RaceCompatibility](https://www.nexusmods.com/skyrimspecialedition/mods/2853)
+- [Racial Movement Framework (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/126267)
 - [Simple Spoilage System Framework](https://www.nexusmods.com/skyrimspecialedition/mods/114918)
 - [SPIDable Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/96572)
 - [Various States of Undress](https://www.nexusmods.com/skyrimspecialedition/mods/74851)
