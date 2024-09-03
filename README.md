@@ -27,6 +27,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
   - [Container Distribution Framework for Skyrim 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/120386)
 - [Container Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/99486)
 - [Crafting Recipe Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/52276)
+- [Dynamic Magic Modification Framework](https://www.nexusmods.com/skyrimspecialedition/mods/127918)
 - [Dynamic Persistent Forms](https://www.nexusmods.com/skyrimspecialedition/mods/116001)
 - [Dynamic String Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/107676)
 - [FormList Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/74037)
@@ -35,6 +36,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
 - [Make Them Slow or Fast](https://www.nexusmods.com/skyrimspecialedition/mods/109355)
 - [Music Type Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/119571)
+- [Perk Adjuster](https://www.nexusmods.com/skyrimspecialedition/mods/127999)
 - [Race Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/113825)
 - [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 - [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)
@@ -47,6 +49,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 
 - [Andrealphus' Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/85252)
 - [ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649) / [ConsoleUtilSSE](https://www.nexusmods.com/skyrimspecialedition/mods/24858)
+- [Custom Console](https://www.nexusmods.com/skyrimspecialedition/mods/113094)
 - [Denyyu's Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/108173)
 - [DienesTools NG](https://www.nexusmods.com/skyrimspecialedition/mods/82471)
 - [Dybills Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/65410)
