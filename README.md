@@ -23,6 +23,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Actor Value Generator](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
 - [Ammo Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/109061)
 - [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
+- [Combat Music Extender](https://www.nexusmods.com/skyrimspecialedition/mods/133384)
 - [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)
   - [Container Distribution Framework for Skyrim 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/120386)
 - [Container Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/99486)
@@ -34,6 +35,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Game Settings Override](https://www.nexusmods.com/skyrimspecialedition/mods/114911)
 - [Item Property Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/95795)
 - [Keyword Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/55728)
+- [Leveled List Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/132765)
 - [Make Them Slow or Fast](https://www.nexusmods.com/skyrimspecialedition/mods/109355)
 - [Music Type Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/119571)
 - [Perk Adjuster](https://www.nexusmods.com/skyrimspecialedition/mods/127999)
@@ -108,6 +110,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Conjuration Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/117155)
 - [Containerize](https://www.nexusmods.com/skyrimspecialedition/mods/110297)
 - [Crafting Remnants](https://www.nexusmods.com/skyrimspecialedition/mods/119296)
+- [Currency Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/127686)
 - [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 - [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203)
 - [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
@@ -164,6 +167,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Scaleform Translation Plug Plug NG](https://www.nexusmods.com/skyrimspecialedition/mods/77359)
 - [Slow Time Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/115453)
 - [Spell Level Automatic Adjusted Description](https://www.nexusmods.com/skyrimspecialedition/mods/113097)
+- [Staff Enchanting Plus](https://www.nexusmods.com/skyrimspecialedition/mods/132680)
 
 # More (non SKSE DLL) Frameworks
 
