@@ -87,6 +87,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 
 ## UI
 
+- [Achievement Injector](https://www.nexusmods.com/skyrimspecialedition/mods/126220)
 - [CoMAP](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
 - [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409)
 - [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
@@ -102,6 +103,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [SKSE Menu Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120352)
 - [SSE GUI](https://www.nexusmods.com/skyrimspecialedition/mods/25706)
 - [SSE ImGui](https://www.nexusmods.com/skyrimspecialedition/mods/25708)
+- [The Dragonborn's Bestiary](https://www.nexusmods.com/skyrimspecialedition/mods/123521)
 
 ## Other
 
@@ -113,13 +115,15 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Currency Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/127686)
 - [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 - [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203)
+- [Don't Eat Spell Tomes](https://www.nexusmods.com/skyrimspecialedition/mods/43095)
+- [Dragontongue - Shout Framework](https://www.nexusmods.com/skyrimspecialedition/mods/132424)
 - [dTry's Key Utils](https://www.nexusmods.com/skyrimspecialedition/mods/69944)
   - [NG Update](https://www.nexusmods.com/skyrimspecialedition/mods/85740)
 - [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273)
 - [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963)
 - [Dynamic Key Action Framework](https://www.nexusmods.com/skyrimspecialedition/mods/87706)
-- [Don't Eat Spell Tomes](https://www.nexusmods.com/skyrimspecialedition/mods/43095)
-- [Dynamic Dialogue Replacer](https://www.patreon.com/posts/dynamic-dialogue-87675093)
+- [Dynamic Dialogue Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/135618)
+  - [old version](https://www.patreon.com/posts/dynamic-dialogue-87675093)
 - [Enchantment Art Extender](https://www.nexusmods.com/skyrimspecialedition/mods/105492)
 - [NewProjectilesAPI](https://github.com/fenix31415/NewProjectilesTMP/)
   - [old version](https://www.nexusmods.com/skyrimspecialedition/mods/70916)
@@ -222,6 +226,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 
 ## UI
 
+- [B612](https://www.nexusmods.com/skyrimspecialedition/mods/127701) (UI Components)
 - [Extended Vanilla Menus](https://www.nexusmods.com/skyrimspecialedition/mods/67946)
 - [ImGui Icons](https://www.nexusmods.com/skyrimspecialedition/mods/114790)
 - [iWant Wigets](https://www.nexusmods.com/skyrimspecialedition/mods/36457)
