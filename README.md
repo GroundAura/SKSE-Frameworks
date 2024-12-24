@@ -132,6 +132,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 - [Item Equip Restrictor](https://www.nexusmods.com/skyrimspecialedition/mods/108665)
 - [KiLoader](https://www.nexusmods.com/skyrimspecialedition/mods/99404)
 - [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)
+- [Model Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/136461)
 - [Mu Impact Framework](https://www.nexusmods.com/skyrimspecialedition/mods/95624)
 - [Mu Skeleton Editor](https://www.nexusmods.com/skyrimspecialedition/mods/91563)
 - [NPC Names Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/73081)
