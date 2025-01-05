@@ -22,6 +22,7 @@ These plugins interact with forms in some way. Effectively modifying subrecords 
 
 - [Actor Value Generator](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
 - [Ammo Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/109061)
+- [Automatic Renamer](https://www.nexusmods.com/skyrimspecialedition/mods/129797)
 - [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
 - [Combat Music Extender](https://www.nexusmods.com/skyrimspecialedition/mods/133384)
 - [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)
